@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+
+body, input{
+	/*font-family: 'Permanent Marker', cursive;*/
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size:20px;	
+	font-weight:bold;	
+    background-image: url("img/fute2.jpg");
+   color: white;
+
+}
+
+fieldset{
+		background-color: #0034FF;
+		width:400px;
+		height:290px;
+		margin-left: 470px;
+		margin-top: 75px;
+		text-align: center;
+}
